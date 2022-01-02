@@ -1,0 +1,29 @@
+- Variable adlah tempat untuk menyimpan data
+- Dengan menyimpan data di variable, kita bisa menggunakannya lagi dengan menyebutkan nama variable nya
+- Untuk membuat variable di javascript, kita bisa menggunakan kata kunci var diikuti dengan nama variable nya 
+- Javascript adalah dynamic language, artinya variable di javascript tidak terpaku harus menggunakan 
+    satu tipe data, kita bisa mengubah-ubah tipe data di variable yang sama 
+
+# Mengubah value di variable
+    - setelah variable di deklarasikan, kita bisa mengubah value atau nilai didalam variable tersebut 
+    - Untuk mengubahnya, kita bisa menggunakan perintah nama variable diikuti dengan tanda = (samadengan)
+        lalu diikuti dengan value atau nilainya
+
+# Membuat variable langsung dengan value
+    - Di javascript juga kita bisa mendeklarasikan sebuah variable, langsung dengan isi value nya
+    - Caranya kita bisa menggunakan kata kunci var, diikuti nama variable, lalu diikuti dengan tanda = (samadengan)
+        dan diikuti dengan value atau nilainya
+
+# Mengakses Variable 
+    - Salah satu keuntungan menggunakan variable adalah variable bisa digunakan kembali
+    - Hal ini akan mempermudah ketika membutuhkan data yang sama berkali kali
+    - untuk mengakses variable, kita cukup menyebutkan nama variable nya
+
+# Kata kunci let dan const 
+    - Javascript sekarang tidak direkomendasikan lagi menggunakan kata kunci var untuk membuat variable
+        namun diganti dengan let, hal ini dikarenakan ada masalah dari desain awal var 
+# Kata kunci const 
+    - Kata kunci let itu seperti kata kunci var, dimana data variable tersebut dapat diubah-ubah sesuka kita
+    - sedangkan kata kunci const berbeda, ketika sebuah variable sudah diisi di variable const, maka 
+        varible tersebut tidak bisa diubah lagi value nya   
+    - Variable sejenis ini kadang dibilang juga constant

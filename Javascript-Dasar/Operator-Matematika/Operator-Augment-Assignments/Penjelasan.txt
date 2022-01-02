@@ -1,0 +1,9 @@
+# Operator Augmented Assignments
+    Operator Matematika                             Operator Augmented Assignments
+
+    result = result + 10                            result += 10
+    result = result - 10                            result -= 10
+    result = result * 10                            result *= 10
+    result = result ** 10                           result **= 10
+    result = result / 10                            result /= 10
+    result = result % 10                            result %= 10

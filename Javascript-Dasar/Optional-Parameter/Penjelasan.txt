@@ -1,0 +1,4 @@
+- Secara default, parameter di function itu opsional 
+- Artinya, kita tidak wajib mengisi value nya ketika memanggil function 
+- Jika tidak ada value yang kita kirim ke parameter ketika memanggil function, maka secara otomatis 
+    parameter tersebut bernilai undefined 

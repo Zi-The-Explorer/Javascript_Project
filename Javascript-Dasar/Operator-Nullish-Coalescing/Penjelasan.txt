@@ -1,0 +1,3 @@
+- Nullist value adalah null dan undefined
+- Nullist Coalescing Operator (??) adalah operator mirip dengan ternary operator, yang membedakan 
+    adalah pada kondisi, Jika bernilai null atau undefined, baru value defaultnya di ambil 

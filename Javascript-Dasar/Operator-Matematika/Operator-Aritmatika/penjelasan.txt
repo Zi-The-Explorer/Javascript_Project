@@ -1,0 +1,16 @@
+- Javascript mendukung banyak sekali operator Matematika untuk tipe data number, Seperti :
+- Operator Aritmatika
+- operator Augmented Assignments
+- Operator Unary
+- Dan Lain-Lain
+
+# Operator Aritmatika
+    Operator                                        Keterangan 
+   
+      +                                             Pertambahan
+      -                                             Pengurangan 
+      *                                             Perkalian
+      **                                            Exponensial
+      /                                             Pembagian
+      %                                             Sisa Bagi 
+

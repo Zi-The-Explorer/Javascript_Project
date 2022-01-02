@@ -1,0 +1,3 @@
+- Ternary operator adalah operaor sederhana dari if steatment
+- Ternary operator terdiri dari kondisi yang di evaluasi, jika menghasilkan true maka nilai pertama diambil
+    jika false, maka nilai kedua di ambil

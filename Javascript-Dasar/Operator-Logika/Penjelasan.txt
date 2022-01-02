@@ -1,0 +1,7 @@
+- Operator logika adalah operator untuk dua buah data boolean 
+- hasil dari operator logika adalah boolean lagi 
+
+operator                                            Keterangan 
+&&                                                  Dan (Menghasilkan true jika semua nilai bernilai true)
+||                                                  Atau (Menghasilkan true jika salah satu data bernilai true)
+!                                                   Kebalikan (Jika true maka hasil false dan kebalikannya)

@@ -1,0 +1,9 @@
+# Refactoring
+    - Sebuah proses mengubah kode agar menjadi lebih baik tanpa mengubah fungsionalitasnya
+
+# Alasan menggunakan 
+    - Readability
+    - DRY (Don't Repeat Yourself)
+    - Testability
+    - Performance
+    - Maintainability

@@ -1,0 +1,22 @@
+- Array adalah tipe data yang berisikan kumpulan data 
+- Array di javascript memiliki sifat dinamis, artinya datanya bisa bertambah dengan sendirinya saat 
+    kita memasukan data kedalam Array
+
+# Cara kerja array
+    - Setiap data di Array disimpan dalam posisi berurutan, dimana urutan pertama dimulai dari nomor 0
+    - Setiap kita menambahkan data ke Array,  otomatis data akan disimpan di urutan terakhir 
+    - Urutan di Array, kita sebut dengan index
+
+# Operasi Di Array
+    Operasi                                                                     Keterangan 
+
+    array.push(value)                                                           Menambah data ke array
+    array.length                                                                Mendapatkan panjang array
+    array[index]                                                                Mendapatkan data di posisi index 
+    array[index] = value                                                        Mengubah data di posisi index 
+    delete array[index]                                                         Menghapus data di posisi index, namun index tidak bergeser
+
+# Perlu diingat 
+    - Data didalam array tidak ada batasannya harus data apa 
+    - Jadi bisa memasukan data apapun kedalam array
+    - Bahkan kita juga bisa memasukan Array kedalam Array Jika mau  

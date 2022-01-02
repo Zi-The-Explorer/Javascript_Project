@@ -1,0 +1,29 @@
+# Pengelolaan Penumpang
+
+    - Penumpang Naik Angkot
+
+        - tambahPenumpang()
+            - 2 parameter :
+                1.namaPenumpang
+                2.arrayPenumpang
+            - Rules : 
+                1. Jika angkot kosong, penumpang naik duduk di kursi pertama
+                2. Penumpang berikutnya duduk di kursi selanjutnya secara berurutan
+                3. Jika ada kursi kosong (Karena Penumpang Turun), penumpang yang naik berikutnya duduk di kursi kosong terlebih dahulu
+                4. Asumsi kursi tidak akan penuh dan akan bertambah terus jika ada penumpang naik
+                5. Nama penumpang tidak boleh sama, Untuk menghindari kebingungan ketika nanti penumpang turun 
+
+
+    - Penumpang Turun
+
+        - hapusPenumpang()
+            - 2 parameter : 
+                1.namaPenumpang
+                2.arrayPenumpang
+            - Rules: 
+                1.Jika angkot kosong, tampilkan pesan bahwa angkot kosong
+                2.Jika ada penumpang yang nama nya sesuai, hapus nama penumpang pada array dengan memberi nilai undefined
+                3.Jika tidak ada penumpang yang nama nya sesuai, tampilkan pesan kesalahan
+                
+
+    

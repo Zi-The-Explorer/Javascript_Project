@@ -1,0 +1,4 @@
+- Kita bisa mengirim informasi ke function yang ingin kita panggil 
+- Untuk melakukan hal tersebut, kita perlu menambahkan parameter atau argument di function yang sudah kita buat 
+- Parameter ditempatkan didalam kurung () di deklarasi method
+- Parameter bisa lebih dari satu, jika lebih dari satu, harus dipisah menggunakan tanda koma (,)

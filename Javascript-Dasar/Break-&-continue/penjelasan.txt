@@ -1,0 +1,4 @@
+- Pada switch steatment, kita sudah mengenal kata kunci break, yaitu untuk mneghentikan case dalam switch 
+- Sama dengan pada perulangan, break juga digunakan untuk menghentikan seluruh perulangan 
+- Namun berbeda dengan continue, continue digunakan untuk menghentikan perulangan saat ini, 
+    lalu melanjutkan ke perulangan selanjutnya

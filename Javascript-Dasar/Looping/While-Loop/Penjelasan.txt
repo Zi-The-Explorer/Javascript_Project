@@ -1,0 +1,2 @@
+- While loop adlah versi perulangan yang lebih sederhana dibanding for loop
+- Di while loop, Hanya terdapat kondisi perulangan, tanpa ada init steatment dan post steatment

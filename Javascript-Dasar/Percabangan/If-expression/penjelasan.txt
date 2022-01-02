@@ -1,0 +1,12 @@
+- Dalam Javascript, if adalah salah satu kata kunci yang digunakan untuk percabangan 
+- Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi
+- Hampir disemua bahasa pemrograman mendukung if expression
+
+# Else Expression 
+    - Blok if akan di eksekusi ketika kondisi if bernilai true 
+    - Kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false 
+    - Hal ini bisa dilakukan menggunakan else expression
+
+# Else if 
+    - Kadang dalam if, kita butuh membuat beberapa kondisi 
+    - Kasus seperti ini, di Javascript kita bisa menggunakan Else if Expression

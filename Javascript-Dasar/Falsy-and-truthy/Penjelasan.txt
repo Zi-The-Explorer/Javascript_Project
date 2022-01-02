@@ -1,0 +1,20 @@
+# Falsy 
+ - Falsy atau kadang ditulis falsey, adalah value yang ketika dalam konteks boolean, dia dianggap false 
+ - Ini adalah salah satu fitur unik dari javascript, yang berguna, namun kadang juga sering membingungkan 
+ - Jadi di javascript, kondisi itu tidak hanya bisa boolean, tapi diluar boolean pun bisa, namun kita 
+    harus tahu beberapa data falsy, atau dianggap false.
+
+    Data dianggap falsy                                                             keterangan
+
+    false                                                                           Boolean False 
+    0, -0                                                                           Number 0 dan -0 dianggap false 
+    "", '', ``                                                                      Semua string kosong dianggap false 
+    null                                                                            null dianggap false 
+    undefined                                                                       undefined dianggap false 
+    NaN                                                                             Not a Number dianggap false 
+
+
+# Truthy
+    -Truthy adalah kebalikan dari falsy, dimana data ini dianggap true 
+    -sederhana sekali sebenernya untuk mengetahui sebuah data itu adalh truthy, 
+        yaitu data yg bukan bernilai falsy 

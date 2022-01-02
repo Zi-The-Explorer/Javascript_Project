@@ -1,0 +1,30 @@
+- Tipe data string atau text adalah tipe data yag berisikan kumpulan kosong atau lebih karakter.
+- Di javascript, untuk membuat data dengan tipe string, kita perlu menggunakan "(Petik dua)" atau
+    '(petik satu)' sebelum dan setelah isi text nya 
+
+# Menambah String
+    - Data string bisa digabungkan dengan menggunakan operator + (plus)
+
+# operator String 
+    - +
+    - ""
+    - ''
+
+    Tipe data string dalam javascript digunakan untuk mempresentasikan data tekstual (plaint text)
+    contoh :
+            - "Akhmad Fauzi"
+            - 'Koding'
+
+    * Escape Character untuk String
+        - \0 -> karakter null
+        - \' -> '
+        - \" -> "
+        - \\ -> \
+        - \n -> new line \ baris baru
+        - \t -> tab
+        - \b -> backspace
+        - \uXXXX -> unicode
+
+    * Unicode 
+        - \u00A9 -> copy
+        - dll.

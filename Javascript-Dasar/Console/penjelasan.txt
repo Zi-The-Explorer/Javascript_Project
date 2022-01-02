@@ -1,0 +1,13 @@
+- Javascript memiliki fitur untuk melakukan logging bernama console
+- Logging adalah mekanisme yang biasa dilakukan oleh programmer untuk menampilkan informasi
+    dari aplikasi yang sedang berjalan, tanpa harus menggangu alur kerja aplikasi dan juga interaksi user 
+- Untuk melakukan ini, kita bisa menggunakan fitur console di javascript
+- Untuk menggunakan console, kita cukup gunakan perintah console di kode javascript
+
+# Console Method
+    Console Method                                          Keterangan 
+
+    console.info() / console.log()                          Memberitahu informasi
+    console.warn()                                          Memberitahu informasi Peringatan
+    console.error()                                         Memberitahu informasi Error
+    console.table()                                         Memberitahu informasi Dalam Bentuk Table 

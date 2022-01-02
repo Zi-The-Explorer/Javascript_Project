@@ -1,0 +1,10 @@
+- Kita sudah tahu bahwa untuk menambahkan string dengan data lain, kita bisa menggunakan operator +(plus)
+- Namun pada kasus tertentu, penggunaan operator +(plus) sangat menyulitkan, apalagi jika dalam jumlah banyak 
+- Javascript memiliki fitur yang bernama String Template, dimana kita bisa mensubtitusi dara dari luar string kedalam string, 
+    Seperti mengambil data variable, atau bahkan melakukan operasi matematika
+- Untuk menggunakan String Template, cara pembuatan String nya harus menggunakan `(backtick),
+    Bukan '(petik satu), atau "(petik dua)
+
+# Multiline String
+    - String template juga bisa digunakan untuk membuat string multi line
+    - Cukup tambahkan enter di text nya

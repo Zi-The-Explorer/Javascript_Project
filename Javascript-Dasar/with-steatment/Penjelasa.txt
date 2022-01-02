@@ -1,0 +1,8 @@
+- With Steatment merupakan fitur yang digunakan untuk menurunkan sebuah scope data 
+- Dengan menggunakan with steatment, kita bisa mengakses property dalam sebuah data tanpa
+    harus menyebut data nya 
+
+# With Steatment tidak direkomendasikan 
+    - Walaupun fitur with steatment ini sangat menarik 
+    - namun kebanyakan orang tidak merekomendasikan penggunaan with steatment 
+    - Hal ini dikarenakan with steatment kadang  membuat sebuah kode menjadi ambigu

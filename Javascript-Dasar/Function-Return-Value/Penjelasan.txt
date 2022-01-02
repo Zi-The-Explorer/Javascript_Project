@@ -1,0 +1,11 @@
+- Secara default, function itu tidak menghasilkan value apapun, namun jika kita ingin, kita bisa membuat
+    sbuah function mengembalikan value 
+- Agar function bisa menghasilkan value, kita bisa menggunakan kata kunci return didalam function nya 
+- Dan didalam block function, untuk menghasilkan nilai tersebut, kita harus menggunakan kata kunci return,
+    lalu diikuti dengan data yang ingin dihasilkan 
+- Function hanya bisa mengembalikan satu data, jika kita ingin mengembalikan beberapa data sekaligus, 
+    kita bisa menggunakan Array sebagai return value nya.
+
+# Menghentikan Eksekusi dengan return 
+    - Saat kita menggunakan kata kunci return, maka kode setelah return tersebut tidak akan di eksekusi
+    - Kita bisa menggunakan return untuk menghentikan eksekusi sebuah function 

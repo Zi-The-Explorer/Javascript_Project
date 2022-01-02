@@ -1,0 +1,13 @@
+- For adalah salah satu kata kunci yang bisa digunakan untuk melakukan perulangan 
+- Blok kode yang terdapat didalam For akan selalu diulanngi selama kondisi for terpenuhi
+
+# Sintak perulangan for
+for(init steatment; kondisi; post steatment) {
+    // Block perulangan 
+}
+
+- Init steatment akan di eksekusi hanya sekali di awal sebelum perulangan 
+- Kondisi akan dilakukan pengecekan dalam setiap perulangan, jika true perulangan akan dilakukan,
+    jika false perulangan akan berhenti
+- Post Steatment akan di eksekusi setiap kali di akhir perulangan 
+- Init Steatment, Kondisi dan Post Steatment tidak wajib diisi, Jika kondisi tidak diisi, berarti kondisi selalu bernilai true 

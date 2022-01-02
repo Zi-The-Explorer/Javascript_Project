@@ -1,0 +1,31 @@
+
+- javascript hanya mendukung satu tipe data number, dimana tipe data number di javascript bisa
+    berupa bilangan bulat atau bilangan desimal
+- Di javascript tipe data number semua disatukan
+
+- Didalam javascript tidak ada integer atau bilangan bulat
+- yang ada hanya bilangan floating point atau bilangan pecahan 
+- ukuran angka yang dapat ditampung javascript adalah 64-bit
+
+# Angka tanpa desimal 
+    - 10, 1500, 123456
+
+
+# Angka dengan desimal 
+    - 3.14, 0.5, 100.00
+
+
+# Eksponen 
+    - 123e5 / 12300000
+    - 123e-5 / 0.00123
+
+# Bilangan negatif
+    -
+
+
+# Number Notation 
+    - javascript mendukung number notation, default nya ada basis 10, Javascript juga mendukung 
+        binary, Hexadecimal, dan Octal
+    - Hexadecimal : 0xFF
+    - Binary : 0b10101
+    - Octal : 0o10

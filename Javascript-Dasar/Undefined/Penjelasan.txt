@@ -1,0 +1,5 @@
+- Undefined adalah sebuah kata kunci di javascript
+- undefined adalah sebuah tipe data 
+- Sebuah variable yang belum ditambahkan nilai, maka artinya variable tersebut merupakan tipe data undefined 
+- Kadang untuk programmer javascript pemula undefined ini memang agak sedikit membingungkan 
+- Undefined itu berbeda dengan null dibahasa pemrograman lain 

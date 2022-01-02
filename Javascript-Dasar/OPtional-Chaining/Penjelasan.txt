@@ -1,0 +1,4 @@
+- Optional Chaining Operator (?) merupakan operator yang digunakan untuk mengamankan ketika 
+    kita ingin mengakses property sebuah object dari data nullish
+- Jika kita coba mengakses property dari sebuah object dari data nullish tanpa menggunakan 
+    optional chaining operator, maka akan terjadi error

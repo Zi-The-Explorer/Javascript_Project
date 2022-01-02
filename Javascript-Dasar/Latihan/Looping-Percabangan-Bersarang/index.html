@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        let inputNum = prompt("Input An2gka dari 1 - 10");
+
+        for (let index = 1; index <= inputNum; index++) {
+            if (inputNum <= 10) {
+                for (let i = 1; i <= index ; i++) {
+                     document.writeln("*"); 
+                }
+            } else {
+                alert("Masukan Angka yang sudah di tentukan");
+                break
+            }
+            
+            document.writeln("<br>");
+        }
+    </script>
+</body>
+</html>

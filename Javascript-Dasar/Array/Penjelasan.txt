@@ -1,0 +1,28 @@
+# Array
+    - Susunan sistematis dari object object yang serupa
+    - tipe data yang digunakan untuk mendeskripsikan kumpulan elemen (nilai atau variable), 
+        yang tiap-tiap elemen nya memiliki index 
+    - Array adalah variable yang lebih sakti karena bisa menampung lebih dari satu nilai 
+    - Variable jamak, yang mempunyai banyak elemen dan diacu dengan nama yang sama 
+    - Kumpulan pasangan key dan nilai / key and value pair 
+    - Key adalah index pada array dengan tipe integer yang dimulai dari 0
+    - array pada javascript bertipe object 
+    - Array pada javascript memiliki fungsi / method lenght untuk menghitung jumlah element didalam nya
+    - elemen pada array boleh memiliki tipe data yang berbeda 
+
+# Kenapa butuh array
+    - Mempermudah pengelolaan nilai / value /data
+        - penelusuran dan pencarian 
+    - Manajemen memory
+
+# Manipulasi pada array
+    - Menambah data array
+
+# Array Method 
+    - length 
+    - join 
+    - push, pop, shift, unshift
+    - Slice and splice 
+    - foreach dan map
+    - sort
+    - filter, find
